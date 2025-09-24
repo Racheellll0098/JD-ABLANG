@@ -1,0 +1,63 @@
+               <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday, JD! 💕</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to bottom, #ff9a9e, #fecfef);
+            color: #333;
+            text-align: center;
+            padding: 50px 20px;
+            margin: 0;
+        }
+        .card {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 2s ease-in;
+ }
+        h1 {
+            color: #e91e63;
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .message {
+            font-size: 1.2em;
+            line-height: 1.6;
+            color: #555;
+            margin: 20px 0;
+        }
+        .hearts {
+            font-size: 2em;
+            color: #e91e63;
+            margin: 20px 0;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+    </style>
+</head>
+<body>
+<div class="card">
+        <h1>Happy Birthday, JD! 🎉💖</h1>
+        <div class="hearts">💕💕💕</div>
+        <p class="message">
+            I feel so blessed to have you in my life. Through every high and low, know that I’ll always be here by your side.
+I love you so much, more than words can ever say.
+May God continue to bless you!
+        </p>
+        <div class="hearts">💕💕💕</div>
+        <p style="font-style: italic; color: #e91e63; font-size: 1.1em;">
+            With all my love, [Your Name] ❤️
+        </p>
+    </div>
+</body>
+</html>
